@@ -26,6 +26,8 @@ So Keep coding!</p>
 
 <h3 align="left">Some stuff about me:</h3>
 
+- 🧠 I always learn a lot more if I **shut up and listen.**
+ 
 - 🔒 Currently working on **Blockchain Security.**
 
 - 🧑‍💻 Looking for help with **Blockchain Core Development.**
@@ -58,10 +60,10 @@ So Keep coding!</p>
   <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="solidity" width="40"           height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://vyper.readthedocs.io/en/stable/_images/vyper-logo-transparent.svg" alt="vyper" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo--v1.png" alt="rust" width="40" height="40"/> </a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/go.png" alt="rust" width="40" height="40"/> </a>
 </div>
